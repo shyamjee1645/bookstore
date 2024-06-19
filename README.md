@@ -18,7 +18,8 @@ This is a full-stack Bookstore E-commerce application built using the MERN (Mong
 
 Here is a screenshot of the final output of the application:
 
-![Final Project Output](Screenshot-2567-01-04-at-233834.png)
+![Final Project Output](![image](https://github.com/shyamjee1645/bookstore/assets/93826494/35f32f4e-fb64-4fe5-b762-5c60ec8ff26f)
+)
 
 ## Prerequisites
 
