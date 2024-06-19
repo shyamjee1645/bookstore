@@ -191,6 +191,8 @@ npm start
 ```
 
 ## Deployment
+# Project Link
+The project is deployed and can be accessed at: https://bookstore-deploy-e2cc0qkhb-shyamjee1645s-projects.vercel.app/
 
 ### Options for Free Deployment
 
