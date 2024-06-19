@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for the Bookstore E-commerce app:
 
-```markdown
 # Bookstore E-commerce App
 
 This is a full-stack Bookstore E-commerce application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The project demonstrates a comprehensive understanding of full-stack development by showcasing how to set up a web application where users can view, filter, and purchase various books.
@@ -203,9 +201,6 @@ npm start
 
 Follow the respective documentation for deploying React applications on these platforms.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
 
 This `README.md` file provides a comprehensive overview of the project, setup instructions, and deployment options. Make sure to replace placeholders like `<Your connection string>` with actual values relevant to your project.
